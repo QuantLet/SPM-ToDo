@@ -1,0 +1,9 @@
+Name of Quantlet:  SPMhistmse
+
+Published in: Nonparametric and Semiparametric Models
+
+Description: 'SPMhistmse calculates MSE, Bias^2 and Variance (asymptotic formulas) of a histogram at a fixed point x0. The origin of the histogram is set to 0. The true density is f(x)=2/3 *{(1+x/2)*I[-2,0)+(1-x)*[0,1)}.'    
+
+Keywords: histogram, error, variance, origin, density, nonparametric, plot          
+
+Author: Awdesch Melzer      

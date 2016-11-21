@@ -1,0 +1,12 @@
+Name of Quantlet:  SPMcps85dist
+
+Published in: Nonparametric and Semiparametric Models
+
+Description: 'Estimates the distribution of log(wages) from the 1985 CPS (see Berndt, 1991). Confidence bands and intervals for the kernel density estimate can be compared. '      
+
+Keywords: kernel, kde, distribution, confidence-bands, empirical, nonparametric estimation, nonparametric, plot
+
+Author:  Marlene Mueller
+        
+Datafile: cps85.dat
+

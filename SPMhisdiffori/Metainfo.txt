@@ -1,0 +1,12 @@
+Name of Quantlet:  SPMhisdoffori
+
+Published in: Nonparametric and Semiparametric Models
+
+Description: 'Computes histograms with different origins (but always the same binwidth). Plots as result four histograms for the stock returns data corresponding to different origins.'     
+
+Keywords: histogram, origin, nonparametric, nonparametric estimation, plot, density, graphical representation                
+
+Author: 'Marlene Müller'        
+
+Datafile: stockres.txt          
+

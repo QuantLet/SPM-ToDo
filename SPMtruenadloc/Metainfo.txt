@@ -1,0 +1,9 @@
+Name of Quantlet: SPMtruenadloc
+
+Published in: Nonparametric and Semiparametric Models
+
+Description: 'Computes the true function, the Nadaraya-Watson estimate and the local linear estimate. Results in plotted in 3D graphs.'       
+
+Keywords: Nadaraya Watson, local linear, regression, kernel, random, density, estimation             
+
+Author: Eunah Whang, Awdesch Melzer        

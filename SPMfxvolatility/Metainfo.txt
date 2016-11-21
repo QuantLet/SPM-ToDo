@@ -1,0 +1,12 @@
+Name of Quantlet:  SPMfxvolatility
+
+Published in: Nonparametric and Semiparametric Models
+
+Description: 'Plots estimated conditional variance function of FX rate EUR/USD using local polynomial estimator. SPMfxvolatility, depends on lpregest(), lpvarcb() and quadk() which should be save separately in the same working directory'  
+
+Keywords:  conditional variance, currency, local polynomial, nonparametric, plot, graphical representation, visualization        
+      
+Author:  Maria Osipenko
+
+Datafile: exrate_GBR-USD_EUR-USD.mat       
+
