@@ -1,0 +1,12 @@
+Name of Quantlet: SPMhisdiffbin
+
+Published in: Nonparametric and Semiparametric Models
+
+Description: 'Computes histograms with different binwidths from stock exchange data (but always at the same origin) and plots the resulting histograms.'  
+
+Keywords: histogram, binwidth, nonparametric, nonparametric estimation, density, distribution        
+
+Author: 'Marlene Müller'        
+
+Datafile: stockres.txt        
+

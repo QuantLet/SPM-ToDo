@@ -1,0 +1,12 @@
+Name of Quantlet:  SPMslices3D
+
+Published in: Nonparametric and Semiparametric Models
+
+Description: 'Computes a kernel density estimate of variables Duration of credit, Income and Age of credit data. The density is visualized by fixing one variable in each direction. The bandwidth parameters are chosen by Scott''s rule of thumb.'      
+
+Keywords: kde, financial, Credit Risk, nonparametric, nonparametric estimation, plot          
+
+Author: Yafei Xu, Awdesch Melzer        
+
+Datafile: kredit.dat         
+

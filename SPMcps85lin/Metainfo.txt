@@ -1,0 +1,14 @@
+Name of Quantlet: SPMcps85lin 
+
+Published in: Nonparametric and Semiparametric Models
+
+Description: 'Computes a linear regression of log wages on schooling, experience and experience squared for observations from the 1985 CPS (see Berndt, 1991). The marginal wage-schooling and wage-experience profiles and the 3D wage-schooling/experience surface are displayed.'  
+
+Keywords: linear-regression, empirical, 3D, plot, data visualization, plot             
+
+Author:  Marlene Mueller     
+
+Datafile: cps85.dat   
+
+Output: 'Plots for the marginal wage-schooling and the wage-experience profiles are displayed. The 3d wage-schooling/experience surface is plotted.'
+
